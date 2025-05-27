@@ -1,0 +1,14 @@
+intro 
+ 
+ 1. its is a programming langunage 
+ 2. oops and high level and scripting langunage
+ 3. guido van russom in 1991
+ 4. dutch programmer
+ 5. python uses .oy extension
+ 6. user friendly langunage
+ 7. monty python flying circus bbc show 
+ 8. large and standard library and packages and modules and framework 
+ 9. large community 
+
+
+its is the both compiler and interpreter 
